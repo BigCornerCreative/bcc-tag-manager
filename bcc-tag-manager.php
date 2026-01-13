@@ -3,7 +3,7 @@
 Plugin Name: BCC Tag Manager
 Plugin URI: https://bigcornercreative.com
 Description: Install Google Tag Manager into &lt;head&gt; and &lt;body&gt;. Works with Avada, Salient, and standard WordPress themes.
-Version: 2.1.0
+Version: 2.1.1
 Author: Big Corner Creative
 Author URI: https://bigcornercreative.com
 Text Domain: bcc-tag-manager
@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Plugin version constant
-define( 'BCC_GTM_VERSION', '2.1.0' );
+define( 'BCC_GTM_VERSION', '2.1.1' );
 define( 'BCC_GTM_OPTION_NAME', 'bcc_gtm_id' );
 
 /**
