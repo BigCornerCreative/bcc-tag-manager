@@ -3,7 +3,7 @@
 A WordPress plugin for easy Google Tag Manager integration by Big Corner Creative.
 
 ## Version
-Current version: 2.1.0
+Current version: 2.1.1
 
 ## Installation
 1. Download the latest release

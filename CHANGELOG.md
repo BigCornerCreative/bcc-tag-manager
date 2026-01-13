@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.1.1] - 2026-01-13
+
+### Fixed
+- Added PUC Library
+
 ## [2.1.0] - 2026-01-13
 
 ### Added
